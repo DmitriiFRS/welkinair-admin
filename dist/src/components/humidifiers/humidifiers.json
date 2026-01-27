@@ -1,0 +1,60 @@
+{
+    "collectionName": "components_humidifiers_humidifiers",
+    "info": {
+        "displayName": "humidifiers"
+    },
+    "options": {},
+    "attributes": {
+        "nominal_power": {
+            "type": "string"
+        },
+        "nominal_frequency": {
+            "type": "string"
+        },
+        "rated_power": {
+            "type": "string"
+        },
+        "noise_min": {
+            "type": "string"
+        },
+        "anions": {
+            "type": "string"
+        },
+        "particle_removal": {
+            "type": "string"
+        },
+        "formaldehyde": {
+            "type": "string"
+        },
+        "m2": {
+            "type": "string"
+        },
+        "filter_replacement": {
+            "type": "string"
+        },
+        "weight": {
+            "type": "string"
+        },
+        "size": {
+            "type": "string"
+        },
+        "tank_capacity": {
+            "type": "string"
+        },
+        "max_spray_vol": {
+            "type": "string"
+        },
+        "cable_length": {
+            "type": "string"
+        },
+        "engine_speed": {
+            "type": "string"
+        },
+        "airflow": {
+            "type": "string"
+        },
+        "degree_oscil": {
+            "type": "string"
+        }
+    }
+}

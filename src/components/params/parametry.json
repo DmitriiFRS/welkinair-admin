@@ -1,0 +1,44 @@
+{
+  "collectionName": "components_params_parametry",
+  "info": {
+    "displayName": "Параметры",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "airconds": {
+      "displayName": "airconds",
+      "type": "component",
+      "repeatable": false,
+      "component": "airconds.airconds"
+    },
+    "vrf_outer": {
+      "displayName": "vrf-outer",
+      "type": "component",
+      "repeatable": false,
+      "component": "vrf-outer.vrf-outer"
+    },
+    "vrf_inner": {
+      "displayName": "vrf-inner",
+      "type": "component",
+      "repeatable": false,
+      "component": "vrf-inner.vrf-inner"
+    },
+    "chillers": {
+      "displayName": "chillers",
+      "type": "component",
+      "repeatable": false,
+      "component": "chillers.chillers"
+    },
+    "heat_curtains": {
+      "type": "component",
+      "repeatable": false,
+      "component": "heat-curtains.heat-curtains"
+    },
+    "centrifugal_chillers": {
+      "type": "component",
+      "repeatable": false,
+      "component": "centrifugal-chillers.centrifugal-chillers"
+    }
+  }
+}

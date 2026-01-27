@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_general_params_general_params",
+  "info": {
+    "displayName": "general_params"
+  },
+  "options": {},
+  "attributes": {
+    "icon": {
+      "allowedTypes": [
+        "images",
+        "files"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "title": {
+      "type": "string",
+      "maxLength": 50
+    }
+  }
+}

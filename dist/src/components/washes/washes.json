@@ -1,0 +1,164 @@
+{
+    "collectionName": "components_washes_washes",
+    "info": {
+        "displayName": "washes"
+    },
+    "options": {},
+    "attributes": {
+        "type": {
+            "type": "string"
+        },
+        "color": {
+            "type": "string"
+        },
+        "loading_type": {
+            "type": "string"
+        },
+        "motor_type": {
+            "type": "string"
+        },
+        "has_steam": {
+            "type": "boolean",
+            "default": false
+        },
+        "load_capacity": {
+            "type": "string"
+        },
+        "has_smart_control": {
+            "type": "boolean",
+            "default": false
+        },
+        "max_spin_speed": {
+            "type": "integer"
+        },
+        "depth": {
+            "type": "integer"
+        },
+        "display_type": {
+            "type": "string"
+        },
+        "energy_class": {
+            "type": "string"
+        },
+        "water_consumption": {
+            "type": "integer"
+        },
+        "noise_level_spin": {
+            "type": "integer"
+        },
+        "programs_count": {
+            "type": "integer"
+        },
+        "category_type": {
+            "type": "string"
+        },
+        "mode_rinse_spin": {
+            "type": "boolean",
+            "default": false
+        },
+        "mode_spin_only": {
+            "type": "boolean",
+            "default": false
+        },
+        "mode_cotton": {
+            "type": "boolean",
+            "default": false
+        },
+        "mode_delicates": {
+            "type": "boolean",
+            "default": false
+        },
+        "mode_eco_40_60": {
+            "type": "boolean",
+            "default": false
+        },
+        "mode_quick_15": {
+            "type": "boolean",
+            "default": false
+        },
+        "mode_quick_45": {
+            "type": "boolean",
+            "default": false
+        },
+        "mode_allergy_care": {
+            "type": "boolean",
+            "default": false
+        },
+        "mode_jeans": {
+            "type": "boolean",
+            "default": false
+        },
+        "mode_down_wear": {
+            "type": "boolean",
+            "default": false
+        },
+        "mode_wool": {
+            "type": "boolean",
+            "default": false
+        },
+        "mode_synthetics": {
+            "type": "boolean",
+            "default": false
+        },
+        "mode_mixed": {
+            "type": "boolean",
+            "default": false
+        },
+        "mode_cold_wash": {
+            "type": "boolean",
+            "default": false
+        },
+        "mode_turbo_wash": {
+            "type": "boolean",
+            "default": false
+        },
+        "mode_air_refresh": {
+            "type": "boolean",
+            "default": false
+        },
+        "has_extra_rinse": {
+            "type": "boolean",
+            "default": false
+        },
+        "has_pre_wash": {
+            "type": "boolean",
+            "default": false
+        },
+        "has_steam_wash": {
+            "type": "boolean",
+            "default": false
+        },
+        "has_heat_pump": {
+            "type": "boolean",
+            "default": false
+        },
+        "mode_quick_wash_dry": {
+            "type": "boolean",
+            "default": false
+        },
+        "mode_wash_dry": {
+            "type": "boolean",
+            "default": false
+        },
+        "mode_dry_only": {
+            "type": "boolean",
+            "default": false
+        },
+        "has_auto_dry": {
+            "type": "boolean",
+            "default": false
+        },
+        "has_time_dry": {
+            "type": "boolean",
+            "default": false
+        },
+        "has_anti_crease": {
+            "type": "boolean",
+            "default": false
+        },
+        "has_uv_sanitization": {
+            "type": "boolean",
+            "default": false
+        }
+    }
+}

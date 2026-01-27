@@ -1,0 +1,45 @@
+{
+  "collectionName": "components_variation_variaczii",
+  "info": {
+    "displayName": "Вариации",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "variation": {
+      "type": "enumeration",
+      "enum": [
+        "Мощность",
+        "Длина",
+        "Модель"
+      ],
+      "required": true
+    },
+    "value": {
+      "type": "string",
+      "required": true
+    },
+    "images": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files"
+      ]
+    },
+    "params": {
+      "displayName": "Параметры",
+      "type": "component",
+      "repeatable": false,
+      "component": "params.parametry",
+      "required": false
+    },
+    "price": {
+      "type": "decimal"
+    },
+    "price_wifi": {
+      "type": "decimal"
+    }
+  }
+}

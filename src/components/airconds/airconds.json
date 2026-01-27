@@ -1,0 +1,64 @@
+{
+  "collectionName": "components_airconds_airconds",
+  "info": {
+    "displayName": "airconds",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "cooling_btu": {
+      "type": "string"
+    },
+    "cooling_kw": {
+      "type": "string"
+    },
+    "heating_btu": {
+      "type": "string"
+    },
+    "heating_kw": {
+      "type": "string"
+    },
+    "energy_output": {
+      "type": "string"
+    },
+    "m2": {
+      "type": "string"
+    },
+    "m3": {
+      "type": "string"
+    },
+    "freon": {
+      "type": "string"
+    },
+    "size_inner": {
+      "type": "string"
+    },
+    "size_outer": {
+      "type": "string"
+    },
+    "airflow": {
+      "type": "string"
+    },
+    "noise_inner": {
+      "type": "string"
+    },
+    "noise_outer": {
+      "type": "string"
+    },
+    "temperature": {
+      "type": "string"
+    },
+    "route_length": {
+      "type": "string"
+    },
+    "route_diameter": {
+      "type": "string"
+    },
+    "weight_inner": {
+      "type": "string"
+    },
+    "weight_outer": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+    "collectionName": "components_params_other_params_others",
+    "info": {
+        "displayName": "params_other",
+        "description": ""
+    },
+    "options": {},
+    "attributes": {
+        "humids": {
+            "type": "component",
+            "repeatable": false,
+            "component": "humidifiers.humidifiers"
+        },
+        "dehumids": {
+            "type": "component",
+            "repeatable": false,
+            "component": "dehumids.dehumids"
+        },
+        "boilers": {
+            "type": "component",
+            "repeatable": false,
+            "component": "boilers.boilers"
+        },
+        "fridges": {
+            "displayName": "fridges",
+            "type": "component",
+            "repeatable": false,
+            "component": "fridges.fridges"
+        },
+        "washes": {
+            "displayName": "washes",
+            "type": "component",
+            "repeatable": false,
+            "component": "washes.washes"
+        }
+    }
+}

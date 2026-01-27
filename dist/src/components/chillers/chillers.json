@@ -1,0 +1,142 @@
+{
+    "collectionName": "components_chillers_chillers",
+    "info": {
+        "displayName": "chillers",
+        "description": ""
+    },
+    "options": {},
+    "attributes": {
+        "cooling_kw": {
+            "type": "string"
+        },
+        "heating_kw": {
+            "type": "string"
+        },
+        "powerSupply": {
+            "type": "string"
+        },
+        "cooling_power_cons_nom": {
+            "type": "string"
+        },
+        "heating_power_cons_nom": {
+            "type": "string"
+        },
+        "eer": {
+            "type": "string"
+        },
+        "cop": {
+            "type": "string"
+        },
+        "heat_energy_consumption_nom": {
+            "type": "string"
+        },
+        "max_energy_cons_kw": {
+            "type": "string"
+        },
+        "max_energy_cons_a": {
+            "type": "string"
+        },
+        "automat_a": {
+            "type": "string"
+        },
+        "inrush_current": {
+            "type": "string"
+        },
+        "water_consumption": {
+            "type": "string"
+        },
+        "hpe_type": {
+            "type": "string"
+        },
+        "hydraulic_resistance_kpa": {
+            "type": "string"
+        },
+        "hpe_water_consumption": {
+            "type": "string"
+        },
+        "hpe_pipe_diameter": {
+            "type": "string"
+        },
+        "hpe_resistance_kpa": {
+            "type": "string"
+        },
+        "hpe_water_value": {
+            "type": "string"
+        },
+        "hpe_pipe_diameter_mm": {
+            "type": "string"
+        },
+        "hpc_resistance_kpa": {
+            "type": "string"
+        },
+        "hpc_water_consumption": {
+            "type": "string"
+        },
+        "noise_power": {
+            "type": "string"
+        },
+        "sound_pressure_level": {
+            "type": "string"
+        },
+        "noise": {
+            "type": "string"
+        },
+        "compressor_type": {
+            "type": "string"
+        },
+        "compressor_quantity": {
+            "type": "string"
+        },
+        "compressor_brand": {
+            "type": "string"
+        },
+        "fan_type": {
+            "type": "string"
+        },
+        "heat_exchanger": {
+            "type": "string"
+        },
+        "expansion_valve": {
+            "type": "string"
+        },
+        "freon_type": {
+            "type": "string"
+        },
+        "freon_value": {
+            "type": "string"
+        },
+        "pipe_diameter": {
+            "type": "string"
+        },
+        "temp_cooling": {
+            "type": "string"
+        },
+        "temp_heating": {
+            "type": "string"
+        },
+        "temp_output_cooling": {
+            "type": "string"
+        },
+        "temp_output_heating": {
+            "type": "string"
+        },
+        "sizes": {
+            "type": "string"
+        },
+        "sizes_package": {
+            "type": "string"
+        },
+        "weight": {
+            "type": "string"
+        },
+        "remote": {
+            "type": "string"
+        },
+        "water_flow_range": {
+            "type": "string"
+        },
+        "e_eff_class_35": {
+            "type": "string"
+        }
+    }
+}

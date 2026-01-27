@@ -1,0 +1,33 @@
+{
+    "collectionName": "components_img_description_img_descriptions",
+    "info": {
+        "displayName": "img_description",
+        "description": ""
+    },
+    "options": {},
+    "attributes": {
+        "text": {
+            "type": "richtext"
+        },
+        "image": {
+            "type": "media",
+            "multiple": false,
+            "required": false,
+            "allowedTypes": [
+                "images",
+                "files",
+                "videos"
+            ]
+        },
+        "image_mobile": {
+            "allowedTypes": [
+                "images",
+                "files",
+                "videos",
+                "audios"
+            ],
+            "type": "media",
+            "multiple": false
+        }
+    }
+}

@@ -1,0 +1,115 @@
+{
+  "collectionName": "components_centrifugal_chillers_centrifugal_chillers",
+  "info": {
+    "displayName": "centrifugal_chillers",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "cooling_kw": {
+      "type": "string"
+    },
+    "heating_kw": {
+      "type": "string"
+    },
+    "powerSupply": {
+      "type": "string"
+    },
+    "cooling_power_cons_nom": {
+      "type": "string"
+    },
+    "heating_power_cons_nom": {
+      "type": "string"
+    },
+    "eer": {
+      "type": "string"
+    },
+    "cop": {
+      "type": "string"
+    },
+    "iplv": {
+      "type": "string"
+    },
+    "engine_power_kw": {
+      "type": "string"
+    },
+    "nominal_voltage_a": {
+      "type": "string"
+    },
+    "inrush_current_a": {
+      "type": "string"
+    },
+    "max_voltage_a": {
+      "type": "string"
+    },
+    "max_cons_voltage_a": {
+      "type": "string"
+    },
+    "hpe_type": {
+      "type": "string"
+    },
+    "hpe_pipe_diameter_mm": {
+      "type": "string"
+    },
+    "cooling_hpe_res": {
+      "type": "string"
+    },
+    "cooling_hpe_water_cons": {
+      "type": "string"
+    },
+    "heating_hpe_res": {
+      "type": "string"
+    },
+    "heating_hpe_water_cons": {
+      "type": "string"
+    },
+    "hp_htc_pipe_diam": {
+      "type": "string"
+    },
+    "cooling_hpc_res": {
+      "type": "string"
+    },
+    "cooling_hpc_water_cons": {
+      "type": "string"
+    },
+    "heating_hpc_res": {
+      "type": "string"
+    },
+    "heating_hpc_water_cons": {
+      "type": "string"
+    },
+    "compressor_type": {
+      "type": "string"
+    },
+    "noise": {
+      "type": "string"
+    },
+    "freon_type": {
+      "type": "string"
+    },
+    "freon_value": {
+      "type": "string"
+    },
+    "size": {
+      "type": "string"
+    },
+    "weight": {
+      "type": "string"
+    },
+    "operating_weight": {
+      "type": "string"
+    },
+    "weight_rhwe_ha": {
+      "type": "string"
+    },
+    "weight_rhwe_hab": {
+      "type": "string"
+    },
+    "oper_weight_rhwe_ha": {
+      "type": "string"
+    },
+    "oper_weight_rhwe_hab": {
+      "type": "string"
+    }
+  }
+}

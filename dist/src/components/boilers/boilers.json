@@ -1,0 +1,76 @@
+{
+    "collectionName": "components_boilers_boilers",
+    "info": {
+        "displayName": "boilers",
+        "description": ""
+    },
+    "options": {},
+    "attributes": {
+        "heating_source": {
+            "type": "string"
+        },
+        "gas_pressure": {
+            "type": "string"
+        },
+        "performance": {
+            "type": "string"
+        },
+        "kpd": {
+            "type": "string"
+        },
+        "temp_range_heating": {
+            "type": "string"
+        },
+        "temp_range_heating_heatWater": {
+            "type": "string"
+        },
+        "working_pressure": {
+            "type": "string"
+        },
+        "nominal_voltage": {
+            "type": "string"
+        },
+        "max_heat_output": {
+            "type": "string"
+        },
+        "pipe_diameter_heating": {
+            "type": "string"
+        },
+        "pipe_diameter_heat_water": {
+            "type": "string"
+        },
+        "pipe_diameter": {
+            "type": "string"
+        },
+        "size": {
+            "type": "string"
+        },
+        "expansion_tank_vol": {
+            "type": "string"
+        },
+        "pump_brand": {
+            "type": "string"
+        },
+        "gas_valve_brand": {
+            "type": "string"
+        },
+        "heat_water_25": {
+            "type": "string"
+        },
+        "heat_water_30": {
+            "type": "string"
+        },
+        "max_min_gas_pressure": {
+            "type": "string"
+        },
+        "oxygen_supply": {
+            "type": "string"
+        },
+        "gas_flowrate": {
+            "type": "string"
+        },
+        "combustion_chamber": {
+            "type": "string"
+        }
+    }
+}

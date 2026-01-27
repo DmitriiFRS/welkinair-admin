@@ -1,0 +1,27 @@
+{
+  "collectionName": "components_heat_curtains_heat_curtains",
+  "info": {
+    "displayName": "heat-curtains"
+  },
+  "options": {},
+  "attributes": {
+    "power_supply": {
+      "type": "string"
+    },
+    "airflow": {
+      "type": "string"
+    },
+    "air_velocity": {
+      "type": "string"
+    },
+    "temp_output": {
+      "type": "string"
+    },
+    "consumption": {
+      "type": "string"
+    },
+    "size": {
+      "type": "string"
+    }
+  }
+}

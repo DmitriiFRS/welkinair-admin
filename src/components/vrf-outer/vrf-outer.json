@@ -1,0 +1,100 @@
+{
+  "collectionName": "components_vrf_outer_vrf_outers",
+  "info": {
+    "displayName": "vrf-outer",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "type": {
+      "type": "string"
+    },
+    "fan_motor_type": {
+      "type": "string"
+    },
+    "cooling_kw": {
+      "type": "string"
+    },
+    "heating_kw": {
+      "type": "string"
+    },
+    "powerSupply": {
+      "type": "string"
+    },
+    "esp": {
+      "type": "string"
+    },
+    "cooling_power_cons_nom": {
+      "type": "string"
+    },
+    "eer": {
+      "type": "string"
+    },
+    "heating_power_cons_nom": {
+      "type": "string"
+    },
+    "cop": {
+      "type": "string"
+    },
+    "max_energy_cons_a": {
+      "type": "string"
+    },
+    "automat_a": {
+      "type": "string"
+    },
+    "airflow": {
+      "type": "string"
+    },
+    "sound_pressure_level": {
+      "type": "string"
+    },
+    "noise": {
+      "type": "string"
+    },
+    "compressor_type": {
+      "type": "string"
+    },
+    "compressor_brand": {
+      "type": "string"
+    },
+    "compressor_quantity": {
+      "type": "string"
+    },
+    "fan_quantity": {
+      "type": "string"
+    },
+    "freon_type": {
+      "type": "string"
+    },
+    "freon_value": {
+      "type": "string"
+    },
+    "liquid_pipe_diam": {
+      "type": "string"
+    },
+    "gas_pipe_diam": {
+      "type": "string"
+    },
+    "temp_cooling": {
+      "type": "string"
+    },
+    "temp_heating": {
+      "type": "string"
+    },
+    "sizes": {
+      "type": "string"
+    },
+    "package_sizes": {
+      "type": "string"
+    },
+    "weight": {
+      "type": "string"
+    },
+    "max_blocks": {
+      "type": "string"
+    },
+    "inner_blocks_power": {
+      "type": "string"
+    }
+  }
+}

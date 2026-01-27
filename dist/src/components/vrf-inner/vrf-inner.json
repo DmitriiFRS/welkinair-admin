@@ -1,0 +1,12 @@
+{
+    "collectionName": "components_vrf_inner_vrf_inners",
+    "info": {
+        "displayName": "vrf-inner"
+    },
+    "options": {},
+    "attributes": {
+        "cooling_btu": {
+            "type": "string"
+        }
+    }
+}

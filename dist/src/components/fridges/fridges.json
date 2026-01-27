@@ -1,0 +1,119 @@
+{
+    "collectionName": "components_fridges_fridges",
+    "info": {
+        "displayName": "fridges"
+    },
+    "options": {},
+    "attributes": {
+        "color": {
+            "type": "string"
+        },
+        "type": {
+            "type": "string"
+        },
+        "noise": {
+            "type": "string"
+        },
+        "cold_retention_hours": {
+            "type": "string"
+        },
+        "total_volume": {
+            "type": "string"
+        },
+        "total_net_volume": {
+            "type": "string"
+        },
+        "fridge_net_volume": {
+            "type": "string"
+        },
+        "freezer_net_volume": {
+            "type": "string"
+        },
+        "chambers_count": {
+            "type": "string"
+        },
+        "doors_count": {
+            "type": "string"
+        },
+        "door_opening_dir": {
+            "type": "string"
+        },
+        "is_reversible_doors": {
+            "type": "string"
+        },
+        "zero_clearance": {
+            "type": "string"
+        },
+        "freezer_location": {
+            "type": "string"
+        },
+        "surface_material": {
+            "type": "string"
+        },
+        "is_panel_changeable": {
+            "type": "string"
+        },
+        "has_included_panels": {
+            "type": "string"
+        },
+        "handle_type": {
+            "type": "string"
+        },
+        "cable_length": {
+            "type": "string"
+        },
+        "display_location": {
+            "type": "string"
+        },
+        "temp_indication": {
+            "type": "string"
+        },
+        "has_smart_control": {
+            "type": "string"
+        },
+        "display": {
+            "type": "boolean",
+            "default": false
+        },
+        "freon": {
+            "type": "string"
+        },
+        "freezing_capacity": {
+            "type": "string"
+        },
+        "freezer_defrost": {
+            "type": "string"
+        },
+        "fridge_defrost": {
+            "type": "string"
+        },
+        "min_freezer_temp": {
+            "type": "string"
+        },
+        "max_freezer_temp": {
+            "type": "string"
+        },
+        "min_fridge_temp": {
+            "type": "string"
+        },
+        "max_fridge_temp": {
+            "type": "string"
+        },
+        "is_inverter": {
+            "type": "boolean",
+            "default": false
+        },
+        "has_fresh_zone": {
+            "type": "boolean",
+            "default": false
+        },
+        "has_egg_tray": {
+            "type": "boolean",
+            "default": false
+        },
+        "has_ice_tray": {
+            "type": "boolean",
+            "default": false
+        }
+    }
+}
